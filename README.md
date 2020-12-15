@@ -26,6 +26,13 @@ https://github.com/ingafter60/code4startup-freelancer
 
 ### 1.4.4 Installing Bulma and jQuery 9:49
 
+        modified:   Gemfile
+        modified:   Gemfile.lock
+        modified:   app/assets/stylesheets/application.css
+        modified:   config/webpack/environment.js
+        modified:   package.json
+        modified:   yarn.lock
+
 ### 1.5.5 Create a static page with navbar 14:25
 
 ## Task 2 - Authentication with email
