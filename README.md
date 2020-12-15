@@ -21,6 +21,9 @@ https://github.com/ingafter60/code4startup-freelancer
 
 ### 1.3.3 Source Control with Github 5:31
 
+      PASS >> refer to 1.2.2
+      modified:   README.md
+
 ### 1.4.4 Installing Bulma and jQuery 9:49
 
 ### 1.5.5 Create a static page with navbar 14:25
