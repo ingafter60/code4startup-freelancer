@@ -35,6 +35,24 @@ https://github.com/ingafter60/code4startup-freelancer
 
 ### 1.5.5 Create a static page with navbar 14:25
 
+        modified:   Gemfile
+        modified:   Gemfile.lock
+        new file:   app/assets/images/logos/g-logo.jpg
+        renamed:    app/assets/stylesheets/application.css -> app/assets/stylesheets/application-ori.css
+        new file:   app/assets/stylesheets/application.scss
+        new file:   app/assets/stylesheets/pages.scss
+        new file:   app/controllers/pages_controller.rb
+        new file:   app/helpers/pages_helper.rb
+        modified:   app/views/layouts/application.html.erb
+        new file:   app/views/pages/home.html.erb
+        new file:   app/views/shared/_navbar.html.erb
+        modified:   config/routes.rb
+        modified:   package.json
+        new file:   public/favicon-ori.ico
+        modified:   public/favicon.ico
+        new file:   test/controllers/pages_controller_test.rb
+        modified:   yarn.lock
+
 ## Task 2 - Authentication with email
 
 2.1.6 What is task 2 about? 0:56  
