@@ -110,6 +110,20 @@ https://github.com/ingafter60/code4startup-freelancer
 
 ### 2.4.9 Update authentication views 11:39
 
+        new file:   app/assets/images/logos/f2-logo.jpg
+        modified:   app/views/devise/confirmations/new.html.erb
+        modified:   app/views/devise/passwords/edit.html.erb
+        modified:   app/views/devise/passwords/new.html.erb
+        modified:   app/views/devise/registrations/edit.html.erb
+        modified:   app/views/devise/registrations/new.html.erb
+        modified:   app/views/devise/sessions/new.html.erb
+        modified:   app/views/devise/shared/_error_messages.html.erb
+        modified:   app/views/devise/shared/_links.html.erb
+        modified:   app/views/devise/unlocks/new.html.erb
+        modified:   app/views/shared/_navbar.html.erb
+        new file:   public/favicon--.ico
+        modified:   public/favicon.ico
+
 ### 2.5.10 Update styles 8:28
 
 ## Task 3 - Authentication with Facebook
