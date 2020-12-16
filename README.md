@@ -61,7 +61,7 @@ https://github.com/ingafter60/code4startup-freelancer
 
       PASS
 
-### 2.2.7.1 Create authentication with email and password 16:15
+### 2.2.7.1 (Sing up and Log in) Create authentication with email and password 16:15
 
         modified:   Gemfile
         modified:   Gemfile.lock
@@ -92,7 +92,14 @@ https://github.com/ingafter60/code4startup-freelancer
         new file:   test/models/user_test.rb
         > Sing Up and Log In are working
 
-### 2.2.7.2 Create authentication with email and password 16:15
+### 2.2.7.2 (Display logged in user) Create authentication with email and password 16:15
+
+        modified:   README.md
+        new file:   app/assets/images/logos/f-logo.jpg
+        modified:   app/views/shared/_navbar.html.erb
+        modified:   config/routes.rb
+        new file:   public/favicon-g.ico
+        modified:   public/favicon.ico
 
 ### 2.3.8 Add custom fields to User model 6:53
 
