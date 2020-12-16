@@ -103,6 +103,11 @@ https://github.com/ingafter60/code4startup-freelancer
 
 ### 2.3.8 Add custom fields to User model 6:53
 
+        modified:   app/controllers/application_controller.rb
+        modified:   app/models/user.rb
+        new file:   db/migrate/20201216022646_add_columns_to_user.rb
+        modified:   db/schema.rb
+
 ### 2.4.9 Update authentication views 11:39
 
 ### 2.5.10 Update styles 8:28
